@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ac54f2f-e61b-4509-8454-95bc879fe780" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/app.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+            <state relative-caret-position="378">
+              <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -34,6 +34,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/config/app.php" />
       </list>
     </option>
   </component>
@@ -156,7 +158,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="welcome.blade&#9;FILE&#9;file://C:/Users/lzwmt/Code/resources/views/welcome.blade.php&#10;composer.json&#9;FILE&#9;file://C:/Users/lzwmt/Code/composer.json" />
+    <property name="SearchEverywhereHistoryKey" value="config/app&#9;FILE&#9;file://C:/Users/lzwmt/Code/config/app.php&#10;welcome.blade&#9;FILE&#9;file://C:/Users/lzwmt/Code/resources/views/welcome.blade.php&#10;composer.json&#9;FILE&#9;file://C:/Users/lzwmt/Code/composer.json" />
     <property name="ToolWindowTerminal.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -191,7 +193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2384000" />
+    <option name="totallyTimeSpent" value="3792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,7 +212,7 @@
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Run" order="6" />
-      <window_info active="true" auto_hide="true" x="38" y="31" width="1286" height="696" id="Terminal" order="3" sideWeight="0.49924356" type="WINDOWED" visible="true" weight="0.28072837" />
+      <window_info active="true" auto_hide="true" x="38" y="69" width="1286" height="611" id="Terminal" order="3" sideWeight="0.49924356" type="WINDOWED" visible="true" weight="0.28072837" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1193265" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
@@ -266,6 +268,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
         </state>
       </provider>
     </entry>
